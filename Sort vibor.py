@@ -1,5 +1,4 @@
 # глава 2 сортировка выбором
-
 def findSmallest(arr):
     smallest = arr[0]
     smallest_index = 0
